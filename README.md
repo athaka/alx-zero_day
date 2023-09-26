@@ -2,8 +2,8 @@
 ---
 ### Stay tunned, cause I ambout to go supper sonic with alx Software Engineering.
 ```
-Code is fun 😄
-Code is not fun 😒
+Coding is fun 😄
+Coding is not fun 😒
 I am in the middle 👩‍💻
 
 
